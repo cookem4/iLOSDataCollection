@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DotTracker</string>
+    <string name="title_activity_wifi_info">WifiInfo</string>
+    <string name="title_activity_open_cvstep_counter">OpenCVStepCounter</string>
+</resources>
